@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SensorNet.Server", "SensorNet.Server\SensorNet.Server.csproj", "{B7158AB2-0510-4C02-B88C-411EB6DCBB85}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SensorNet.Sample.Client", "SensorNet.Sample.Client\SensorNet.Sample.Client.csproj", "{40278A67-1E47-402B-92F1-5B92434D7BE3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7158AB2-0510-4C02-B88C-411EB6DCBB85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7158AB2-0510-4C02-B88C-411EB6DCBB85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7158AB2-0510-4C02-B88C-411EB6DCBB85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7158AB2-0510-4C02-B88C-411EB6DCBB85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40278A67-1E47-402B-92F1-5B92434D7BE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40278A67-1E47-402B-92F1-5B92434D7BE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40278A67-1E47-402B-92F1-5B92434D7BE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40278A67-1E47-402B-92F1-5B92434D7BE3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {52513A1F-F904-454D-8E14-1D8EABAD8049}
+	EndGlobalSection
+EndGlobal
